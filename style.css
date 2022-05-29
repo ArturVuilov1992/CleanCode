@@ -22,7 +22,7 @@
     text-align: center;
 }
 }
-.centered-main-page-element {
+.centered-main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -131,7 +131,7 @@
 }
 
 /* Completed */
-#completed-tasks .label {
+#complete .label {
   text-decoration: line-through;
   color: #888;
 }
