@@ -35,14 +35,14 @@
     display: flex;
 }
 .spisok {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 .spisok-item, .subheading {
-    list-style:none;
+    list-style: none;
 }
 .vvod,.btn{
-    outline:none;
+    outline: none;
 }
 .btn-decoration {
     background: none;
@@ -135,14 +135,14 @@
 
 /* Edit Task */
 .spisok .spisok-ite .vvod[type=text] {
-    display:none
+    display: none
 }
 
 .spisok .edit-mode .vvod[type=text] {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .spisok .edi-mode .label {
-    display:none;
+    display: none;
 }
