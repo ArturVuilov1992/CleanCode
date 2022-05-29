@@ -38,10 +38,12 @@
     margin: 0;
     padding: 0px;
 }
-.spisok-item, .subheading {
+.spisok-item, 
+.subheading {
     list-style: none;
 }
-.vvod,.btn{
+.vvod,
+.btn{
     outline: none;
 }
 .btn-decoration {
